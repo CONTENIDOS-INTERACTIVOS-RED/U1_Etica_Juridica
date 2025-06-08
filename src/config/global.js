@@ -1,7 +1,8 @@
 export default {
   global: {
-    numeroUnidad: '3',
-    tituloUnidad: 'Bioética y sostenibilidad en el desarrollo económico global',
+    numeroUnidad: '1',
+    tituloUnidad:
+      'Conceptualización del concepto de moral, ética y sus raíces filosóficas',
   },
   menuPrincipal: {
     menu: [
