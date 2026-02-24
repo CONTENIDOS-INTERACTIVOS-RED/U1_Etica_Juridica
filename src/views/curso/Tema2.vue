@@ -42,7 +42,7 @@
           LineaTiempoD.color-primario.large(data-aos="fade-right")
             div(numero="1" titulo="Definición y enfoque")
               p #[strong Moral:] Es el conjunto de normas, valores y costumbres aceptadas por una sociedad o un individuo. Se basa en la tradición, la educación y la cultura, influyendo en la manera en que las personas juzgan lo que es bueno o malo, en su vida cotidiana.
-              p #[strong Ética:] Su origen es filosófico. Aunque puede influenciarse por la moral, busca principios universales que trasciendan contextos específicos.
+              p #[strong Ética:] Es el estudio filosófico de la moral. Analiza de manera crítica los principios que rigen el comportamiento humano, buscando fundamentar racionalmente lo que se considera correcto o incorrecto.
 
             div(numero="2" titulo="Origen y variabilidad")
               p #[strong Moral:] Tiene un origen social y cultural. Cambia con el tiempo y varía, según la comunidad, la religión o la época histórica.

@@ -20,6 +20,8 @@
 
     h3 Ética en la Antigüedad
 
+    p La ética en la Antigüedad clásica, se desarrolló principalmente en el contexto de la filosofía griega, donde los pensadores intentaron responder qué significa llevar una vida buena y justa:
+
     .bg-full-width.bg-fondo-slider.mb-5
       .p-4.p-md-5
         SlyderA(tipo="b").bg-white
